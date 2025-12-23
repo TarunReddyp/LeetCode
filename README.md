@@ -6,7 +6,7 @@ A comprehensive log of my daily journey through LeetCode challenges, focusing on
 
 | Date | Problem | Difficulty | Key Logic | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 2024-12-11 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | 1D DP + Suffix Max | [View Code](./Medium/2054-Two-Best-Non-Overlapping-Events/solution.py) |
+| 2024-12-23 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | 1D DP + Suffix Max | [View Code](./Medium/2054-Two-Best-Non-Overlapping-Events/solution.py) |
 
 ## 📂 Repository Structure
 
