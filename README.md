@@ -6,14 +6,14 @@ A comprehensive log of my daily journey through LeetCode challenges, focusing on
 
 | Date | Problem | Difficulty | Key Logic | Solution |
 | :--- | :--- | :--- | :--- | :--- |
-| 2025-12-24 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | Greedy + Sorting (Descending) | [View Code](./Easy/3074_Apple_Redistribution_into_Boxes.py) |
-| 2025-12-23 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | 1D DP + Suffix Max | [View Code](./Medium/2054-Two-Best-Non-Overlapping-Events) |
+| 2025-12-24 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | Easy | Greedy + Sorting (Descending) | [View Code](./Easy/3074/3074_Apple_Redistribution_into_Boxes.py) |
+| 2025-12-23 | [2054. Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | Medium | 1D DP + Suffix Max | [View Code](https://github.com/TarunReddyp/LeetCode/blob/main/Medium/2054-Two-Best-Non-Overlapping-Events) |
 
 ## 📂 Repository Structure
 
 The repository is organized by difficulty levels to make navigation easier:
-- [Medium/](./Medium/) : Advanced algorithms like DP, Sliding Window, and Graph theory.
-- [Easy/](./Easy/) : Fundamentals and efficient implementations.
+- [Medium/](https://github.com/TarunReddyp/LeetCode/blob/main/Medium) : Advanced algorithms like DP, Sliding Window, and Graph theory.
+- [Easy/](https://github.com/TarunReddyp/LeetCode/blob/main/Easy) : Fundamentals and efficient implementations.
 - *Hard/* : Complex problem-solving and optimization.
 
 ## 🛠️ Tech Stack
@@ -21,4 +21,4 @@ The repository is organized by difficulty levels to make navigation easier:
 - **Language** : [Python](https://github.com/TarunReddyp/LeetCode) (100%)
 - **Topics** : Greedy Algorithms, Dynamic Programming, Binary Search, Sorting.
 
-*Created and maintained by [TarunReddyp](https://github.com/TarunReddyp).*
+*Created and maintained by [TarunReddyp](https://github.com/TarunReddyp/LeetCode/commits?author=TarunReddyp).*
